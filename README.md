@@ -74,7 +74,10 @@ Após a compilação, execute o programa com:
 ```txt
 3 + 5 * (2 - 1)
 ```
-
+### Exemplo de Entrada:
+```txt
+Resultado: 8
+```
 ---
 
 ## Contribuição
