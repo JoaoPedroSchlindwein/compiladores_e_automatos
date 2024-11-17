@@ -74,7 +74,7 @@ Após a compilação, execute o programa com:
 ```txt
 3 + 5 * (2 - 1)
 ```
-### Exemplo de Entrada:
+### Exemplo de Saída:
 ```txt
 Resultado: 8
 ```
